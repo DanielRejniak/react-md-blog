@@ -1,0 +1,7 @@
+body { 
+	max-width: 800px; 
+	margin: 0 auto !important; 
+	float: none !important; 
+	padding-left: 50px;
+	padding-right: 50px;
+}
